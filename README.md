@@ -1,0 +1,2 @@
+# bootstrap-tindog-project
+bootstrap
